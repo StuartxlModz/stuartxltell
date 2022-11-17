@@ -1,5 +1,5 @@
 
-#👽INSTALAÇÃO NO CMD
+👽🌟INSTALAÇÃO NO CMD
 
 -INSTALAÇÃO DO NODE.JS 🎉
 1-npm install node | ou
@@ -12,9 +12,9 @@
 -INSTALAÇÃO DO PUPPETEER 🎉
 1-npm install puppeteer | ou
 2-npm i puppeteer
-#___________________________
+___________________________
 
-#👽INSTALAÇÃO NO KALI LINUX
+👾🙊INSTALAÇÃO NO KALI LINUX
 
 -INSTALAÇÃO DO NODE.JS 🎉
 -INSTALAÇÃO DO GIT 🎉
@@ -22,3 +22,5 @@
 
 Essas são os pacotes necessários para rodar a script
 Caso o node não funcione faça o download do node.js!
+https://nodejs.org/en/download/
+____________________________
