@@ -24,3 +24,7 @@ Essas são os pacotes necessários para rodar a script
 Caso o node não funcione faça o download do node.js!
 https://nodejs.org/en/download/
 ____________________________
+
+<div>
+<a href="https://youtube.com/@Stuartxl" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div>
